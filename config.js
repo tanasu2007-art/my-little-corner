@@ -13,7 +13,7 @@
   NEVER paste the SECRET key (sb_secret_…) or a "service_role" key here.
 */
 window.CORNER_CONFIG = {
-  SUPABASE_URL: "https://abcdefgh.supabase.co",
-  SUPABASE_ANON_KEY: "sb_publishable_xxxxxxxxxxxx",
+  SUPABASE_URL: "https://yourrealletters.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_...your real key...",
   YOUR_NAME: "tana"                           
 };
